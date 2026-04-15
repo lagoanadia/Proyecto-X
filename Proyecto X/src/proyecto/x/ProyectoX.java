@@ -13,9 +13,13 @@ public class ProyectoX {
         respuesta = sc.nextInt();
         ArrayList<Usuario> ListaUsuarios = new ArrayList<>();
         
-        for(int i = 0; i< respuesta; i++){
+        for(int i = 1; i<= respuesta; i++){
             Usuario u = new Usuario("Usuario"+i);
             ListaUsuarios.add(u);
+        }
+        
+        for(Usuario u : ListaUsuarios){
+            System.out.print(u.getNombreUsuario()+" ");
         }
         
         
