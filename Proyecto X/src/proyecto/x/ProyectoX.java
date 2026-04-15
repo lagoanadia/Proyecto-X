@@ -27,6 +27,18 @@ public class ProyectoX {
         for(Usuario u : ListaUsuarios){
             System.out.print(u.getNombreUsuario()+" ");
         }
+
+        ArrayList<Tarea> ListaTareas = new ArrayList<>();
+            for(int k =0; k<respuestaTareas; k++){
+               String nombreTarea = sc.nextLine();
+               Tarea t = new Tarea("tarea "+k+" "+nombreTarea);
+               ListaTareas.add(t);
+                
+            }
+        
+        for(Tarea t: ListaTareas){
+            System.out.println(t.getNombreTarea()+" ");
+        }
         
         
     }
