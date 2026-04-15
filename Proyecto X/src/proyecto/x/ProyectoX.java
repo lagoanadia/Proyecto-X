@@ -11,10 +11,16 @@ public class ProyectoX {
         Scanner sc = new Scanner(System.in);
         System.out.println("Cuantos usuarios hai en la vivienda?"); 
         respuesta = sc.nextInt();
+        sc.nextLine();
         ArrayList<Usuario> ListaUsuarios = new ArrayList<>();
-        
-        for(int i = 1; i<= respuesta; i++){
-            Usuario u = new Usuario("Usuario"+i);
+       
+        for(int i = 0; i< respuesta; i++){
+            
+            System.out.println("como se llama");
+            String respuestanombre = sc.nextLine();
+            Usuario u = new Usuario("Usuario"+i+":"+respuestanombre);
+            
+            
             ListaUsuarios.add(u);
         }
         
