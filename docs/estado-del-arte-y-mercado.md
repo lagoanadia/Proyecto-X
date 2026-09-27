@@ -21,16 +21,21 @@ Los dos acaban en lo mismo: **un hueco** (algo que nadie hace bien) que tu app v
 
 ## 2. Estado del arte
 
-### 2.1 El problema: el reparto de las tareas del hogar
+### 2.1 El problema: la limpieza genera conflictos de convivencia
 
-- En España las mujeres dedican de media **unas 2 h 15 min más al día** que los hombres
-  a tareas del hogar y la familia (INE, *Encuesta de Empleo del Tiempo 2009-2010*).
-  La brecha era de unas 3 h en 2002-2003. → Fuente: https://www.ine.es/prensa/np669.pdf
-  - ⚠️ Es la última EET nacional publicada que he encontrado; revisa en ine.es si hay una más reciente.
-- Cada vez más gente vive **en pisos compartidos** (sobre todo jóvenes por el precio del alquiler)
-  o **sola**. El INE proyecta que los hogares unipersonales pasarán a ser el 33,5 % del total en 2039.
-  → https://www.ine.es/dyngs/Prensa/PROH20242039.htm
-  → https://theobjective.com/economia/2025-08-10/jovenes-comparte-piso-espana/
+**En familias:**
+- El **45,9 % de las mujeres** dice encargarse de la mayor parte de las tareas del hogar,
+  frente al **14,9 % de los hombres**. En las parejas, la mitad de las mujeres hace la mayor parte,
+  frente al 4,3 % de los hombres (INE, *ECEPOV 2021*). → https://www.ine.es/prensa/ecepov_2021.pdf
+- Dato de tendencia (más antiguo): según la *Encuesta de Empleo del Tiempo 2009-2010* del INE,
+  las mujeres dedicaban unas 2 h 15 min más al día que los hombres. → https://www.ine.es/prensa/np669.pdf
+
+**En pisos compartidos (estudiantes):**
+- El **46 %** de quienes viven o han buscado habitación en un piso compartido dice que la
+  **limpieza y el desorden** son el motivo de discusión más frecuente. Le siguen la falta de
+  intimidad (14 %) y el ruido (14 %) (Fotocasa Research, datos de 2022).
+  → https://www.fotocasa.es/fotocasa-life/alquiler/companeros-de-piso-cuales-son-los-principales-problemas-de-convivencia/
+  - ⚠️ Es una encuesta de un portal inmobiliario, no del INE. Vale como dato, pero cítala como tal.
 
 ✍️ *Escribe 1 párrafo explicando por qué esto es un problema real y a quién afecta.*
 
